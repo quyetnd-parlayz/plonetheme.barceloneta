@@ -7620,3 +7620,13 @@ html {
 .navbar li.actionMenuHeader{
   float: left;
 }
+
+/*Crud fix for demo */
+.overlay {
+    background: none repeat scroll 0 0 #fff;
+    border: 5px solid #fff;
+    border-radius: 3px;
+    box-shadow: 5px 5px 5px 0;
+    z-index: 99;
+}
+
